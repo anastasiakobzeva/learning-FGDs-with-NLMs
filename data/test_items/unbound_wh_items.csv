@@ -1,51 +1,51 @@
-﻿item;prefix;that;wh-obj;5-layers;4-layers;3-layers;2-layers;subj;verb;obj;end;bos;2-that;3-that;4-that;5-that
-1;Hun vet;at;hva;verten sa;de trodde;avisen rapporterte;han visste;presten;avslørte;hemmeligheten;på festen;<bos>;at;at;at;at
-2;Hun fortalte ham;at;hva;gutten rapporterte;hun sa;kvinnen trodde;han var sikker på;hunden;fanget;katten;i går;<bos>;at;at;at;at
-3;Han vet;at;hva;sekretæren visste;sjefen rapporterte;hun hørte;de mente;komitéen;leverte;rapporten;innen fristen;<bos>;at;at;at;at
-4;De husker;at;hva;sjefen mente;hun trodde;sekretæren sa;journalisten rapporterte;forretningsmannen;presenterte;foredraget;etter lunsj;<bos>;at;at;at;at
-5;Hun fortalte ham;at;hva;han mente;hun hørte;avisen rapporterte;læreren sa;studenten;forfalsket;svarene;forrige semester;<bos>;at;at;at;at
-6;Hun vet;at;hva;de syntes;politiet visste;han hørte;kommunen sa;selgeren;forfalsket;maleriet;for en kort stund siden;<bos>;at;at;at;at
-7;De husker;at;hva;han rapporterte;politikeren var sikker på;hun trodde;politiet trodde;fangen;smuglet;en pistol;for to uker siden;<bos>;at;at;at;at
-8;Han kan gjette;at;hva;han var sikker på;kommunen sa;forretningsmannen hørte;hun mente;firmaet;skulle selge;aksjer;neste måned;<bos>;at;at;at;at
-9;Hun visste ikke;at;hva;de rapporterte;politiet syntes;vi hørte;sjefen var sikker på;fienden;forhindret;intervjuet;forrige uke;<bos>;at;at;at;at
-10;Hun kan gjette;at;hva;han visste;journalisten rapporterte;de mente;publikum trodde;skuespilleren;skal få;prisen;under seremonien;<bos>;at;at;at;at
-11;Avisen avslørte;at;hva;vitnet rapporterte;jeg syntes;politiet rapporterte;de hørte;den mistenkte;stjal;maleriet;midt på natten;<bos>;at;at;at;at
-12;Vi fant ut;at;hva;den ansatte sa;kvinnen trodde;de rapporterte;kollegaen syntes;sjefen;sendte;en pakke;for to timer siden;<bos>;at;at;at;at
-13;De vet;at;hva;hun var sikker på;kollegaen visste;hun sa;kommunen rapporterte;legen;skal gi;medisinen;til pasienten;<bos>;at;at;at;at
-14;Jeg vet;at;hva;politikeren visste;han sa;arkitekten trodde;lesere hørte;avisen;avslørte;en løgn;forrige uke;<bos>;at;at;at;at
-15;Han fortalte meg;at;hva;arkitekten visste;politikeren rapporterte;de sa;vi hørte;byen;reparerte;parkeringsplassen;i sommer;<bos>;at;at;at;at
-16;De fant ut;at;hva;de var sikker på;politiet trodde;han sa;de syntes;regjeringen;samlet;personopplysninger;med ulovlige metoder;<bos>;at;at;at;at
-17;Avisen avslørte;at;hva;journalisten rapporterte;hun mente;politikeren sa;han hørte;forretningsmannen;solgte;firmaet;forrige måned;<bos>;at;at;at;at
-18;De fant ut;at;hva;sjefen visste;hun trodde;den ansatte hørte;han syntes;restauranten;forberedte;en overraskelse;i går;<bos>;at;at;at;at
-19;Jeg kan gjette;at;hva;de besøkende hørte;avisen rapporterte;hun visste;de sa;skuespilleren;fortalte;historien;på festen;<bos>;at;at;at;at
-20;De vet;at;hva;politiet var sikker på;hun trodde;journalisten visste;han mente;forretningsmannen;lånte;penger;siste år;<bos>;at;at;at;at
-21;Hun sa;at;hva;han hørte;de trodde;fiskere mente;sjømenn visste;signalet;betydde;fare;på sjøen;<bos>;at;at;at;at
-22;Kona fortalte ham;at;hva;mannen mente;hun sa;de syntes;designeren husket;en snekker;monterte;hylla;i gangen;<bos>;at;at;at;at
-23;Han nevnte;at;hva;de ikke skjønte;foreldrene mente;skolen mistenkte;læreren visste;studenten;brukte;kunstig intelligens;på prøven;<bos>;at;at;at;at
-24;Jeg hørte;at;hva;journalisten rapporterte;en foredragsholder hadde sagt;han husket;arkitekten forklarte;restaurasjonen;skulle beskytte;fasaden;mot sprekker;<bos>;at;at;at;at
-25;Han ble fortalt;at;hva;arkitektkontoret forstod;sekretæren fikk vite;journalisten visste;ministeren forklarte;trehus;skal erstattes med;blokker;i hovedstadsområdet;<bos>;at;at;at;at
-26;Vi fant ut;at;hva;han ikke hørte;hun nevnte;barna skjønte;ektemannen forklarte;kona;hadde krevd;skilsmisse;året før;<bos>;at;at;at;at
-27;Dere hørte jo;at;hvem;han ikke visste;de mente;foreldrene mistenkte;besetningen skjønte;slike vitser;ikke passet;yngre barn;i publikum;<bos>;at;at;at;at
-28;De visste ikke;at;hva;vi skjønte;han visste;de oppdaget;selgeren unngikk å si;seilene;hadde;hull;da de kjøpte det;<bos>;at;at;at;at
-29;Han visste ikke;at;hva;avisen rapporterte;TV-programmet avslørte;de skjønte;danseren visste;nervene;ville hindre;opptredenen;i konkurransen;<bos>;at;at;at;at
-30;Vi hørte;at;hvem;folk fant ut;han ikke ville si;han skjønte;svogeren bekreftet;brudgommen;forlot;bruden;ved alteret;<bos>;at;at;at;at
-31;Han har hørt;at;hva;avisen rapporterte;sangeren likte;hun hadde fått vite;adelsmannen hadde hørt;operaen;hadde fått;gode anmeldelser;fra kritikerne;<bos>;at;at;at;at
-32;Hun visste;at;hva;avisen rapporterte;advokaten sa;politiet bekreftet;gjerningsmannen hadde hørt;tyveriet;handlet om;hevn;først og fremst;<bos>;at;at;at;at
-33;Han forklarte;at;hva;flere hørte;de hadde fått vite;noen påstod;journalisten visste;forfatteren;forfalsket;artikkelen;i forrige avis;<bos>;at;at;at;at
-34;Jeg skjønte;at;hva;de ikke ville høre;politikerne sa;justisdepartementet ikke visste;avisen rapporterte;journalisten;fortalte om;alle planene;til staten;<bos>;at;at;at;at
-35;De sa;at;hva;han ble fortalt;jenta var sikker på;hun hadde hørt;kona spesifiserte;mannen;skulle henge;buksene sine;i skapet;<bos>;at;at;at;at
-36;De har skjønt;at;hva;folk fant ut;agenten hadde visst;de hadde avslørt;galleriet annonserte;kunstneren;skulle selge;portrettet;på neste utstilling;<bos>;at;at;at;at
-37;Dere tok opp;at;hvem;hun forstod;de ignorerte;ledelsen ikke likte;de merket;selgeren;presset;kundene;å svare på undersøkelsen;<bos>;at;at;at;at
-38;Jeg skal ta opp;at;hva;restauranten ikke likte;de ikke fikk vite;kokken leste;avisen rapporterte;kritikeren;kritiserte;maten;på restauranten;<bos>;at;at;at;at
-39;De nevnte;at;hva;han hørte;politiet fant ut;gutten visste;en vekter så;mannen;kastet;varene;inn i bilen;<bos>;at;at;at;at
-40;Hun visste;at;hvem;vi forstod;faren skjønte;han ikke merket;moren innså;bestefaren;forlot;datteren;på ei fergekai;<bos>;at;at;at;at
-41;Han hørte;at;hvem;hun spådde;faren visste;presten innså;brudgommen fant ut;bruden;kysset;fotografen;før hun skulle dra;<bos>;at;at;at;at
-42;Hun husket;at;hva;bestemoren sa;de skjønte;moren forklarte;bruden unngikk å si;onkelen;ødela;feiringen;etter bryllupet;<bos>;at;at;at;at
-43;Jeg ante ikke;at;hva;hun forstod;gutten ikke likte;faren ignorerte;sønnen merket;mora;satte;lekene;på loftet;<bos>;at;at;at;at
-44;Jeg hørte;at;hvem;de ble fortalt;det var et problem;ingen skjønte;mannen visste;han;måtte dra fra;hunden;når han skulle på jobb;<bos>;at;at;at;at
-45;Dere har nevnt;at;hva;de husket;rapporten hadde sagt;ledelsen ignorerte;sjåføren prøvde å si;vegetasjonen i området;skapte;store utfordringer;for kjøretøyene;<bos>;at;at;at;at
-46;Jeg har fått vite;at;hva;sjefen mente;kommunen sa;lokalavisen skrev;opposisjonen fant ut;selskapet;skulle hente ut;olje;fra Nordfjorden;<bos>;at;at;at;at
-47;Andre fikk høre;at;hva;han mente;ingen kunne forstå;de ikke hadde skjønt;arbeiderne visste;næringen;hadde forurenset;elven;i mange år;<bos>;at;at;at;at
-48;De hørte;at;hva;publikum trodde;avisen skrev;forbundet fikk vite;kongefamilien annonserte;kongen;ville presentere;medaljen;til den nasjonale helten;<bos>;at;at;at;at
-49;Hun visste;at;hva;avisa rapporterte;de hadde funnet ut;partiledelsen ignorerte;politikeren visste;maskinene;ødela;skogen;utenfor bygda;<bos>;at;at;at;at
-50;Mange skjønte;at;hva;han var sikker på;sekretæren sa;kritikerne visste;opposisjonen fant ut;den nye justisministeren;skulle lese opp;det nye vedtaket;i Stortinget;<bos>;at;at;at;at
+﻿item;prefix;that;wh-obj;5-layers;4-layers;3-layers;2-layers;subj;verb;obj;end;2-that;3-that;4-that;5-that
+1;Hun vet;at;hva;verten sa;de trodde;avisen rapporterte;han visste;presten;avslørte;hemmeligheten;på festen;at;at;at;at
+2;Hun fortalte ham;at;hva;gutten rapporterte;hun sa;kvinnen trodde;han var sikker på;hunden;fanget;katten;i går;at;at;at;at
+3;Han vet;at;hva;sekretæren visste;sjefen rapporterte;hun hørte;de mente;komitéen;leverte;rapporten;innen fristen;at;at;at;at
+4;De husker;at;hva;sjefen mente;hun trodde;sekretæren sa;journalisten rapporterte;forretningsmannen;presenterte;foredraget;etter lunsj;at;at;at;at
+5;Hun fortalte ham;at;hva;han mente;hun hørte;avisen rapporterte;læreren sa;studenten;forfalsket;svarene;forrige semester;at;at;at;at
+6;Hun vet;at;hva;de syntes;politiet visste;han hørte;kommunen sa;selgeren;forfalsket;maleriet;for en kort stund siden;at;at;at;at
+7;De husker;at;hva;han rapporterte;politikeren var sikker på;hun trodde;politiet trodde;fangen;smuglet;en pistol;for to uker siden;at;at;at;at
+8;Han kan gjette;at;hva;han var sikker på;kommunen sa;forretningsmannen hørte;hun mente;firmaet;skulle selge;aksjer;neste måned;at;at;at;at
+9;Hun visste ikke;at;hva;de rapporterte;politiet syntes;vi hørte;sjefen var sikker på;fienden;forhindret;intervjuet;forrige uke;at;at;at;at
+10;Hun kan gjette;at;hva;han visste;journalisten rapporterte;de mente;publikum trodde;skuespilleren;skal få;prisen;under seremonien;at;at;at;at
+11;Avisen avslørte;at;hva;vitnet rapporterte;jeg syntes;politiet rapporterte;de hørte;den mistenkte;stjal;maleriet;midt på natten;at;at;at;at
+12;Vi fant ut;at;hva;den ansatte sa;kvinnen trodde;de rapporterte;kollegaen syntes;sjefen;sendte;en pakke;for to timer siden;at;at;at;at
+13;De vet;at;hva;hun var sikker på;kollegaen visste;hun sa;kommunen rapporterte;legen;skal gi;medisinen;til pasienten;at;at;at;at
+14;Jeg vet;at;hva;politikeren visste;han sa;arkitekten trodde;lesere hørte;avisen;avslørte;en løgn;forrige uke;at;at;at;at
+15;Han fortalte meg;at;hva;arkitekten visste;politikeren rapporterte;de sa;vi hørte;byen;reparerte;parkeringsplassen;i sommer;at;at;at;at
+16;De fant ut;at;hva;de var sikker på;politiet trodde;han sa;de syntes;regjeringen;samlet;personopplysninger;med ulovlige metoder;at;at;at;at
+17;Avisen avslørte;at;hva;journalisten rapporterte;hun mente;politikeren sa;han hørte;forretningsmannen;solgte;firmaet;forrige måned;at;at;at;at
+18;De fant ut;at;hva;sjefen visste;hun trodde;den ansatte hørte;han syntes;restauranten;forberedte;en overraskelse;i går;at;at;at;at
+19;Jeg kan gjette;at;hva;de besøkende hørte;avisen rapporterte;hun visste;de sa;skuespilleren;fortalte;historien;på festen;at;at;at;at
+20;De vet;at;hva;politiet var sikker på;hun trodde;journalisten visste;han mente;forretningsmannen;lånte;penger;siste år;at;at;at;at
+21;Hun sa;at;hva;han hørte;de trodde;fiskere mente;sjømenn visste;signalet;betydde;fare;på sjøen;at;at;at;at
+22;Kona fortalte ham;at;hva;mannen mente;hun sa;de syntes;designeren husket;en snekker;monterte;hylla;i gangen;at;at;at;at
+23;Han nevnte;at;hva;de ikke skjønte;foreldrene mente;skolen mistenkte;læreren visste;studenten;brukte;kunstig intelligens;på prøven;at;at;at;at
+24;Jeg hørte;at;hva;journalisten rapporterte;en foredragsholder hadde sagt;han husket;arkitekten forklarte;restaurasjonen;skulle beskytte;fasaden;mot sprekker;at;at;at;at
+25;Han ble fortalt;at;hva;arkitektkontoret forstod;sekretæren fikk vite;journalisten visste;ministeren forklarte;trehus;skal erstattes med;blokker;i hovedstadsområdet;at;at;at;at
+26;Vi fant ut;at;hva;han ikke hørte;hun nevnte;barna skjønte;ektemannen forklarte;kona;hadde krevd;skilsmisse;året før;at;at;at;at
+27;Dere hørte jo;at;hvem;han ikke visste;de mente;foreldrene mistenkte;besetningen skjønte;slike vitser;ikke passet;yngre barn;i publikum;at;at;at;at
+28;De visste ikke;at;hva;vi skjønte;han visste;de oppdaget;selgeren unngikk å si;seilene;hadde;hull;da de kjøpte det;at;at;at;at
+29;Han visste ikke;at;hva;avisen rapporterte;TV-programmet avslørte;de skjønte;danseren visste;nervene;ville hindre;opptredenen;i konkurransen;at;at;at;at
+30;Vi hørte;at;hvem;folk fant ut;han ikke ville si;han skjønte;svogeren bekreftet;brudgommen;forlot;bruden;ved alteret;at;at;at;at
+31;Han har hørt;at;hva;avisen rapporterte;sangeren likte;hun hadde fått vite;adelsmannen hadde hørt;operaen;hadde fått;gode anmeldelser;fra kritikerne;at;at;at;at
+32;Hun visste;at;hva;avisen rapporterte;advokaten sa;politiet bekreftet;gjerningsmannen hadde hørt;tyveriet;handlet om;hevn;først og fremst;at;at;at;at
+33;Han forklarte;at;hva;flere hørte;de hadde fått vite;noen påstod;journalisten visste;forfatteren;forfalsket;artikkelen;i forrige avis;at;at;at;at
+34;Jeg skjønte;at;hva;de ikke ville høre;politikerne sa;justisdepartementet ikke visste;avisen rapporterte;journalisten;fortalte om;alle planene;til staten;at;at;at;at
+35;De sa;at;hva;han ble fortalt;jenta var sikker på;hun hadde hørt;kona spesifiserte;mannen;skulle henge;buksene sine;i skapet;at;at;at;at
+36;De har skjønt;at;hva;folk fant ut;agenten hadde visst;de hadde avslørt;galleriet annonserte;kunstneren;skulle selge;portrettet;på neste utstilling;at;at;at;at
+37;Dere tok opp;at;hvem;hun forstod;de ignorerte;ledelsen ikke likte;de merket;selgeren;presset;kundene;å svare på undersøkelsen;at;at;at;at
+38;Jeg skal ta opp;at;hva;restauranten ikke likte;de ikke fikk vite;kokken leste;avisen rapporterte;kritikeren;kritiserte;maten;på restauranten;at;at;at;at
+39;De nevnte;at;hva;han hørte;politiet fant ut;gutten visste;en vekter så;mannen;kastet;varene;inn i bilen;at;at;at;at
+40;Hun visste;at;hvem;vi forstod;faren skjønte;han ikke merket;moren innså;bestefaren;forlot;datteren;på ei fergekai;at;at;at;at
+41;Han hørte;at;hvem;hun spådde;faren visste;presten innså;brudgommen fant ut;bruden;kysset;fotografen;før hun skulle dra;at;at;at;at
+42;Hun husket;at;hva;bestemoren sa;de skjønte;moren forklarte;bruden unngikk å si;onkelen;ødela;feiringen;etter bryllupet;at;at;at;at
+43;Jeg ante ikke;at;hva;hun forstod;gutten ikke likte;faren ignorerte;sønnen merket;mora;satte;lekene;på loftet;at;at;at;at
+44;Jeg hørte;at;hvem;de ble fortalt;det var et problem;ingen skjønte;mannen visste;han;måtte dra fra;hunden;når han skulle på jobb;at;at;at;at
+45;Dere har nevnt;at;hva;de husket;rapporten hadde sagt;ledelsen ignorerte;sjåføren prøvde å si;vegetasjonen i området;skapte;store utfordringer;for kjøretøyene;at;at;at;at
+46;Jeg har fått vite;at;hva;sjefen mente;kommunen sa;lokalavisen skrev;opposisjonen fant ut;selskapet;skulle hente ut;olje;fra Nordfjorden;at;at;at;at
+47;Andre fikk høre;at;hva;han mente;ingen kunne forstå;de ikke hadde skjønt;arbeiderne visste;næringen;hadde forurenset;elven;i mange år;at;at;at;at
+48;De hørte;at;hva;publikum trodde;avisen skrev;forbundet fikk vite;kongefamilien annonserte;kongen;ville presentere;medaljen;til den nasjonale helten;at;at;at;at
+49;Hun visste;at;hva;avisa rapporterte;de hadde funnet ut;partiledelsen ignorerte;politikeren visste;maskinene;ødela;skogen;utenfor bygda;at;at;at;at
+50;Mange skjønte;at;hva;han var sikker på;sekretæren sa;kritikerne visste;opposisjonen fant ut;den nye justisministeren;skulle lese opp;det nye vedtaket;i Stortinget;at;at;at;at

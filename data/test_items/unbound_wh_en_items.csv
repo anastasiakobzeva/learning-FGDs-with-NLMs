@@ -1,51 +1,51 @@
-﻿item;prefix;that;wh-obj;5-layers;4-layers;3-layers;2-layers;subj;verb;obj;end;bos;2-that;3-that;4-that;5-that
-1;She knows;that;what;the host said;they believed;the newspaper reported;he knew;the priest;revealed;the secret;at the party;<bos>;that;that;that;that
-2;She told him;that;what;the boy reported;she said;the woman believed;he was sure;the dog;caught;the cat;yesterday;<bos>;that;that;that;that
-3;He knows;that;what;the secretary knew;the boss reported;she heard;they believed;the committee;delivered;the report;within the deadline;<bos>;that;that;that;that
-4;They remember;that;what;the boss thought;she believed;the secretary said;the journalist reported;the businessman;presented;the proposal;after lunch;<bos>;that;that;that;that
-5;She told him;that;what;he thought;she heard;the newspaper reported;the teacher said;the student;falsified;the answers;last semester;<bos>;that;that;that;that
-6;She knows;that;what;they thought;the police knew;he heard;the municipality said;the salesman;falsified;the painting;a short while ago;<bos>;that;that;that;that
-7;They remember;that;what;he reported;the politician was sure;she thought;the police believed;the prisoner;smuggled;a gun;two weeks ago;<bos>;that;that;that;that
-8;He can guess;that;what;he was sure;the municipality said;the businessman heard;she meant;the company;would sell;shares;next month;<bos>;that;that;that;that
-9;She did not know;that;what;they reported;the police thought;we heard;the boss was sure;the enemy;prevented;the interview;last week;<bos>;that;that;that;that
-10;She can guess;that;what;he knew;the journalist reported;they meant;the audience believed;the actor;should receive;the prize;during the ceremony;<bos>;that;that;that;that
-11;The newspaper revealed;that;what;the witness reported;I thought;the police reported;they heard;the suspect;stole;the painting;in the middle of the night;<bos>;that;that;that;that
-12;We found out;that;what;the employee said;the woman believed;they reported;the colleague thought;the boss;sent;a package;two hours ago;<bos>;that;that;that;that
-13;They know;that;what;she was sure;the colleague knew;she said;the municipality reported;the doctor;should administer;medication;to the patient;<bos>;that;that;that;that
-14;I know;that;what;the politician knew;he said;the architect believed;readers heard;the newspaper;revealed;a lie;last week;<bos>;that;that;that;that
-15;He told me;that;what;the architect knew;the politician reported;they said;we heard;the city;restored;parking places;in summer;<bos>;that;that;that;that
-16;They found out;that;what;they were sure;the police believed;he said;they thought;the government;collected;personal information;with illegal methods;<bos>;that;that;that;that
-17;The newspaper revealed;that;what;the journalist reported;she believed;the politician said;he heard;the businessman;sold;the company;last month;<bos>;that;that;that;that
-18;They found out;that;what;the boss knew;she believed;the employee heard;he thought;the restaurant;prepared;a surprise;yesterday;<bos>;that;that;that;that
-19;I can guess;that;what;the visitors heard;the newspaper reported;she knew;they said;the actor;told;the story;at the party;<bos>;that;that;that;that
-20;They know;that;what;the police were sure;she believed;the journalist knew;he meant;the businessman;loaned;money;last year;<bos>;that;that;that;that
-21;She said;that;what;he heard;they believed;the fishermen thought;sailors knew;the signal;meant;danger;at sea;<bos>;that;that;that;that
-22;The wife told him;that;what;the husband believed;she said;they thought;the designer remembered;a carpenter;installed;the shelf;in the hallway;<bos>;that;that;that;that
-23;He mentioned;that;what;they did not understand;the parents thought;the school suspected;the teacher knew;the student;used;artificial intelligence;on the test;<bos>;that;that;that;that
-24;I heard;that;what;the journalist reported;a speaker had said;he remembered;the architect explained;the restoration;should protect;the facade;against cracks;<bos>;that;that;that;that
-25;He was told;that;what;the architectural office understood;the secretary found out;the journalist knew;the minister explained;wooden houses;should be replaced with;apartment buildings;in the capital area;<bos>;that;that;that;that
-26;We found out;that;what;he did not hear;she mentioned;the children understood;the husband explained;the wife;had demanded;a divorce;the previous year;<bos>;that;that;that;that
-27;You heard;that;who;he did not know;they thought;the parents suspected;the crew realized;such jokes;did not fit;younger children;in the audience;<bos>;that;that;that;that
-28;They did not know;that;what;we understood;he knew;they discovered;the salesman avoided saying;the sails;had;holes;when they bought it;<bos>;that;that;that;that
-29;He did not know;that;what;the newspaper reported;the TV program revealed;they understood;the dancer knew;the nerves;would impede;the performance;in the competition;<bos>;that;that;that;that
-30;We heard;that;who;people found out;he would not say;he understood;the brother-in-law confirmed;the groom;abandoned;the bride;at the altar;<bos>;that;that;that;that
-31;He has heard;that;what;the newspaper reported;the singer liked;she had been informed;the nobleman had heard;the opera;had got;good reviews;from the critics;<bos>;that;that;that;that
-32;She knew;that;what;the newspaper reported;the lawyer said;the police confirmed;the perpetrator had heard;the theft;was about;vengeance;primarily;<bos>;that;that;that;that
-33;He explained;that;what;many heard;they had been informed;someone claimed;the journalist knew;the author;falsified;the article;in the previous newspaper;<bos>;that;that;that;that
-34;I understood;that;what;they did not want to hear;the politicians said;the department did not know;the newspaper reported;the journalist;told;all plans;to the state;<bos>;that;that;that;that
-35;They said;that;what;he was told;the girl was sure;she had heard;the wife specified;the husband;should put;his pants;in the closet;<bos>;that;that;that;that
-36;They have understood;that;what;people found out;the agent had known;they had revealed;the gallery announced;the artist;would sell;the portrait;at the next exhibition;<bos>;that;that;that;that
-37;You brought up;that;who;she understood;they ignored;the management did not like;they noticed;the seller;forced;the customers;to respond to the survey;<bos>;that;that;that;that
-38;I will bring up;that;what;the restaurant did not like;they were not informed;the cook read;the newspaper reported;the critic;criticized;the food;at the restaurant;<bos>;that;that;that;that
-39;They mentioned;that;what;he heard;the police found out;the boy knew;a security guard saw;the man;threw;the goods;into the car;<bos>;that;that;that;that
-40;She knew;that;who;we understood;the father understood;he did not notice;the mother realized;the grandfather;left behind;the daughter;on a ferry dock;<bos>;that;that;that;that
-41;He heard;that;who;she predicted;the father knew;the priest realized;the groom found out;the bride;kissed;the photographer;before she left;<bos>;that;that;that;that
-42;She remembered;that;what;the grandmother said;they understood;the mother explained;the bride avoided saying;the uncle;spoiled;the celebration;after the wedding;<bos>;that;that;that;that
-43;I had no idea;that;what;she understood;the boy did not like;the father ignored;the son noticed;mother;put;the toys;in the attic;<bos>;that;that;that;that
-44;I heard;that;who;they were told;it was a problem;no one understood;the man knew;he;had to leave behind;the dog;when he was going to work;<bos>;that;that;that;that
-45;You mentioned;that;what;they remembered;the report had said;the management ignored;the driver tried to say;the vegetation in the area;created;big challenges;for the vehicles;<bos>;that;that;that;that
-46;I have been informed;that;what;the boss thought;the municipality said;the local newspaper wrote;the opposition found out;the company;had to pick up;oil;from the fjord;<bos>;that;that;that;that
-47;Others were told;that;what;he thought;no one could understand;they had not understood;the workers knew;the industry;had contaminated;the river;for many years;<bos>;that;that;that;that
-48;They heard;that;what;the audience believed;the newspaper wrote;the association was informed;the royal family announced;the king;would award;the medal;to the national hero;<bos>;that;that;that;that
-49;She knew;that;what;the newspaper reported;they had found out;the party leadership ignored;the politician knew;the machines;destroyed;the forest;outside the village;<bos>;that;that;that;that
-50;Many understood;that;what;he was sure;the secretary said;the critics knew;the opposition found out;the new senator;should read out;the new decision;in the Parliament;<bos>;that;that;that;that
+﻿item;prefix;that;wh-obj;5-layers;4-layers;3-layers;2-layers;subj;verb;obj;end;2-that;3-that;4-that;5-that
+1;She knows;that;what;the host said;they believed;the newspaper reported;he knew;the priest;revealed;the secret;at the party;that;that;that;that
+2;She told him;that;what;the boy reported;she said;the woman believed;he was sure;the dog;caught;the cat;yesterday;that;that;that;that
+3;He knows;that;what;the secretary knew;the boss reported;she heard;they believed;the committee;delivered;the report;within the deadline;that;that;that;that
+4;They remember;that;what;the boss thought;she believed;the secretary said;the journalist reported;the businessman;presented;the proposal;after lunch;that;that;that;that
+5;She told him;that;what;he thought;she heard;the newspaper reported;the teacher said;the student;falsified;the answers;last semester;that;that;that;that
+6;She knows;that;what;they thought;the police knew;he heard;the municipality said;the salesman;falsified;the painting;a short while ago;that;that;that;that
+7;They remember;that;what;he reported;the politician was sure;she thought;the police believed;the prisoner;smuggled;a gun;two weeks ago;that;that;that;that
+8;He can guess;that;what;he was sure;the municipality said;the businessman heard;she meant;the company;would sell;shares;next month;that;that;that;that
+9;She did not know;that;what;they reported;the police thought;we heard;the boss was sure;the enemy;prevented;the interview;last week;that;that;that;that
+10;She can guess;that;what;he knew;the journalist reported;they meant;the audience believed;the actor;should receive;the prize;during the ceremony;that;that;that;that
+11;The newspaper revealed;that;what;the witness reported;I thought;the police reported;they heard;the suspect;stole;the painting;in the middle of the night;that;that;that;that
+12;We found out;that;what;the employee said;the woman believed;they reported;the colleague thought;the boss;sent;a package;two hours ago;that;that;that;that
+13;They know;that;what;she was sure;the colleague knew;she said;the municipality reported;the doctor;should administer;medication;to the patient;that;that;that;that
+14;I know;that;what;the politician knew;he said;the architect believed;readers heard;the newspaper;revealed;a lie;last week;that;that;that;that
+15;He told me;that;what;the architect knew;the politician reported;they said;we heard;the city;restored;parking places;in summer;that;that;that;that
+16;They found out;that;what;they were sure;the police believed;he said;they thought;the government;collected;personal information;with illegal methods;that;that;that;that
+17;The newspaper revealed;that;what;the journalist reported;she believed;the politician said;he heard;the businessman;sold;the company;last month;that;that;that;that
+18;They found out;that;what;the boss knew;she believed;the employee heard;he thought;the restaurant;prepared;a surprise;yesterday;that;that;that;that
+19;I can guess;that;what;the visitors heard;the newspaper reported;she knew;they said;the actor;told;the story;at the party;that;that;that;that
+20;They know;that;what;the police were sure;she believed;the journalist knew;he meant;the businessman;loaned;money;last year;that;that;that;that
+21;She said;that;what;he heard;they believed;the fishermen thought;sailors knew;the signal;meant;danger;at sea;that;that;that;that
+22;The wife told him;that;what;the husband believed;she said;they thought;the designer remembered;a carpenter;installed;the shelf;in the hallway;that;that;that;that
+23;He mentioned;that;what;they did not understand;the parents thought;the school suspected;the teacher knew;the student;used;artificial intelligence;on the test;that;that;that;that
+24;I heard;that;what;the journalist reported;a speaker had said;he remembered;the architect explained;the restoration;should protect;the facade;against cracks;that;that;that;that
+25;He was told;that;what;the architectural office understood;the secretary found out;the journalist knew;the minister explained;wooden houses;should be replaced with;apartment buildings;in the capital area;that;that;that;that
+26;We found out;that;what;he did not hear;she mentioned;the children understood;the husband explained;the wife;had demanded;a divorce;the previous year;that;that;that;that
+27;You heard;that;who;he did not know;they thought;the parents suspected;the crew realized;such jokes;did not fit;younger children;in the audience;that;that;that;that
+28;They did not know;that;what;we understood;he knew;they discovered;the salesman avoided saying;the sails;had;holes;when they bought it;that;that;that;that
+29;He did not know;that;what;the newspaper reported;the TV program revealed;they understood;the dancer knew;the nerves;would impede;the performance;in the competition;that;that;that;that
+30;We heard;that;who;people found out;he would not say;he understood;the brother-in-law confirmed;the groom;abandoned;the bride;at the altar;that;that;that;that
+31;He has heard;that;what;the newspaper reported;the singer liked;she had been informed;the nobleman had heard;the opera;had got;good reviews;from the critics;that;that;that;that
+32;She knew;that;what;the newspaper reported;the lawyer said;the police confirmed;the perpetrator had heard;the theft;was about;vengeance;primarily;that;that;that;that
+33;He explained;that;what;many heard;they had been informed;someone claimed;the journalist knew;the author;falsified;the article;in the previous newspaper;that;that;that;that
+34;I understood;that;what;they did not want to hear;the politicians said;the department did not know;the newspaper reported;the journalist;told;all plans;to the state;that;that;that;that
+35;They said;that;what;he was told;the girl was sure;she had heard;the wife specified;the husband;should put;his pants;in the closet;that;that;that;that
+36;They have understood;that;what;people found out;the agent had known;they had revealed;the gallery announced;the artist;would sell;the portrait;at the next exhibition;that;that;that;that
+37;You brought up;that;who;she understood;they ignored;the management did not like;they noticed;the seller;forced;the customers;to respond to the survey;that;that;that;that
+38;I will bring up;that;what;the restaurant did not like;they were not informed;the cook read;the newspaper reported;the critic;criticized;the food;at the restaurant;that;that;that;that
+39;They mentioned;that;what;he heard;the police found out;the boy knew;a security guard saw;the man;threw;the goods;into the car;that;that;that;that
+40;She knew;that;who;we understood;the father understood;he did not notice;the mother realized;the grandfather;left behind;the daughter;on a ferry dock;that;that;that;that
+41;He heard;that;who;she predicted;the father knew;the priest realized;the groom found out;the bride;kissed;the photographer;before she left;that;that;that;that
+42;She remembered;that;what;the grandmother said;they understood;the mother explained;the bride avoided saying;the uncle;spoiled;the celebration;after the wedding;that;that;that;that
+43;I had no idea;that;what;she understood;the boy did not like;the father ignored;the son noticed;mother;put;the toys;in the attic;that;that;that;that
+44;I heard;that;who;they were told;it was a problem;no one understood;the man knew;he;had to leave behind;the dog;when he was going to work;that;that;that;that
+45;You mentioned;that;what;they remembered;the report had said;the management ignored;the driver tried to say;the vegetation in the area;created;big challenges;for the vehicles;that;that;that;that
+46;I have been informed;that;what;the boss thought;the municipality said;the local newspaper wrote;the opposition found out;the company;had to pick up;oil;from the fjord;that;that;that;that
+47;Others were told;that;what;he thought;no one could understand;they had not understood;the workers knew;the industry;had contaminated;the river;for many years;that;that;that;that
+48;They heard;that;what;the audience believed;the newspaper wrote;the association was informed;the royal family announced;the king;would award;the medal;to the national hero;that;that;that;that
+49;She knew;that;what;the newspaper reported;they had found out;the party leadership ignored;the politician knew;the machines;destroyed;the forest;outside the village;that;that;that;that
+50;Many understood;that;what;he was sure;the secretary said;the critics knew;the opposition found out;the new senator;should read out;the new decision;in the Parliament;that;that;that;that

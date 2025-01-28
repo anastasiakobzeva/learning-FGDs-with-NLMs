@@ -1,7 +1,6 @@
 {
     "whether_wh_en": {
         "that_no-gap_that-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -12,7 +11,6 @@
             "end"
         ],
         "what_no-gap_that-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "embed",
@@ -23,7 +21,6 @@
             "end"
         ],
         "what_gap_that-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "embed",
@@ -33,7 +30,6 @@
             "end"
         ],
         "that_gap_that-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -43,7 +39,6 @@
             "end"
         ],
         "that_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -54,7 +49,6 @@
             "end"
         ],
         "what_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "embed",
@@ -65,7 +59,6 @@
             "end"
         ],
         "what_gap_wh-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "embed",
@@ -75,7 +68,6 @@
             "end"
         ],
         "that_gap_wh-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -87,7 +79,6 @@
     },
     "whether_wh": {
         "what_no-gap_that-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "embed",
@@ -98,7 +89,6 @@
             "end"
         ],
         "what_gap_that-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "embed",
@@ -108,7 +98,6 @@
             "end"
         ],
         "that_gap_that-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -118,7 +107,6 @@
             "end"
         ],
         "that_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -129,7 +117,6 @@
             "end"
         ],
         "what_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "embed",
@@ -140,7 +127,6 @@
             "end"
         ],
         "what_gap_wh-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "embed",
@@ -150,7 +136,6 @@
             "end"
         ],
         "that_gap_wh-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -162,7 +147,6 @@
     },
     "whether_rc": {
         "that_no-gap_that-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -174,7 +158,6 @@
             "end"
         ],
         "what_no-gap_that-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -186,7 +169,6 @@
             "end"
         ],
         "what_gap_that-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -197,7 +179,6 @@
             "end"
         ],
         "that_gap_that-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -208,7 +189,6 @@
             "end"
         ],
         "that_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -220,7 +200,6 @@
             "end"
         ],
         "what_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -232,7 +211,6 @@
             "end"
         ],
         "what_gap_wh-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -243,7 +221,6 @@
             "end"
         ],
         "that_gap_wh-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -256,7 +233,6 @@
     },
     "unbound_wh_en": {
         "that_no-gap_1": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -265,7 +241,6 @@
             "end"
         ],
         "that_gap_1": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -273,7 +248,6 @@
             "end"
         ],
         "what_no-gap_1": [
-            "bos",
             "prefix",
             "wh-obj",
             "subj",
@@ -282,7 +256,6 @@
             "end"
         ],
         "what_gap_1": [
-            "bos",
             "prefix",
             "wh-obj",
             "subj",
@@ -290,7 +263,6 @@
             "end"
         ],
         "that_no-gap_2": [
-            "bos",
             "prefix",
             "that",
             "2-layers",
@@ -300,7 +272,6 @@
             "end"
         ],
         "that_gap_2": [
-            "bos",
             "prefix",
             "that",
             "2-layers",
@@ -309,7 +280,6 @@
             "end"
         ],
         "what_no-gap_2": [
-            "bos",
             "prefix",
             "wh-obj",
             "2-layers",
@@ -319,7 +289,6 @@
             "end"
         ],
         "what_gap_2": [
-            "bos",
             "prefix",
             "wh-obj",
             "2-layers",
@@ -328,7 +297,6 @@
             "end"
         ],
         "that_no-gap_3": [
-            "bos",
             "prefix",
             "that",
             "3-layers",
@@ -339,7 +307,6 @@
             "end"
         ],
         "that_gap_3": [
-            "bos",
             "prefix",
             "that",
             "3-layers",
@@ -349,7 +316,6 @@
             "end"
         ],
         "what_no-gap_3": [
-            "bos",
             "prefix",
             "wh-obj",
             "3-layers",
@@ -360,7 +326,6 @@
             "end"
         ],
         "what_gap_3": [
-            "bos",
             "prefix",
             "wh-obj",
             "3-layers",
@@ -370,7 +335,6 @@
             "end"
         ],
         "that_no-gap_4": [
-            "bos",
             "prefix",
             "that",
             "4-layers",
@@ -382,7 +346,6 @@
             "end"
         ],
         "that_gap_4": [
-            "bos",
             "prefix",
             "that",
             "4-layers",
@@ -393,7 +356,6 @@
             "end"
         ],
         "what_no-gap_4": [
-            "bos",
             "prefix",
             "wh-obj",
             "4-layers",
@@ -405,7 +367,6 @@
             "end"
         ],
         "what_gap_4": [
-            "bos",
             "prefix",
             "wh-obj",
             "4-layers",
@@ -416,7 +377,6 @@
             "end"
         ],
         "that_no-gap_5": [
-            "bos",
             "prefix",
             "that",
             "5-layers",
@@ -429,7 +389,6 @@
             "end"
         ],
         "that_gap_5": [
-            "bos",
             "prefix",
             "that",
             "5-layers",
@@ -441,7 +400,6 @@
             "end"
         ],
         "what_no-gap_5": [
-            "bos",
             "prefix",
             "wh-obj",
             "5-layers",
@@ -454,7 +412,6 @@
             "end"
         ],
         "what_gap_5": [
-            "bos",
             "prefix",
             "wh-obj",
             "5-layers",
@@ -466,7 +423,6 @@
             "end"
         ],
         "that_no-gap_1-comp": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -475,7 +431,6 @@
             "end"
         ],
         "that_gap_1-comp": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -483,7 +438,6 @@
             "end"
         ],
         "what_no-gap_1-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "subj",
@@ -492,7 +446,6 @@
             "end"
         ],
         "what_gap_1-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "subj",
@@ -500,7 +453,6 @@
             "end"
         ],
         "that_no-gap_2-comp": [
-            "bos",
             "prefix",
             "that",
             "2-layers",
@@ -511,7 +463,6 @@
             "end"
         ],
         "that_gap_2-comp": [
-            "bos",
             "prefix",
             "that",
             "2-layers",
@@ -521,7 +472,6 @@
             "end"
         ],
         "what_no-gap_2-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "2-layers",
@@ -532,7 +482,6 @@
             "end"
         ],
         "what_gap_2-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "2-layers",
@@ -542,7 +491,6 @@
             "end"
         ],
         "that_no-gap_3-comp": [
-            "bos",
             "prefix",
             "that",
             "3-layers",
@@ -555,7 +503,6 @@
             "end"
         ],
         "that_gap_3-comp": [
-            "bos",
             "prefix",
             "that",
             "3-layers",
@@ -567,7 +514,6 @@
             "end"
         ],
         "what_no-gap_3-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "3-layers",
@@ -580,7 +526,6 @@
             "end"
         ],
         "what_gap_3-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "3-layers",
@@ -592,7 +537,6 @@
             "end"
         ],
         "that_no-gap_4-comp": [
-            "bos",
             "prefix",
             "that",
             "4-layers",
@@ -607,7 +551,6 @@
             "end"
         ],
         "that_gap_4-comp": [
-            "bos",
             "prefix",
             "that",
             "4-layers",
@@ -621,7 +564,6 @@
             "end"
         ],
         "what_no-gap_4-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "4-layers",
@@ -636,7 +578,6 @@
             "end"
         ],
         "what_gap_4-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "4-layers",
@@ -650,7 +591,6 @@
             "end"
         ],
         "that_no-gap_5-comp": [
-            "bos",
             "prefix",
             "that",
             "5-layers",
@@ -667,7 +607,6 @@
             "end"
         ],
         "that_gap_5-comp": [
-            "bos",
             "prefix",
             "that",
             "5-layers",
@@ -683,7 +622,6 @@
             "end"
         ],
         "what_no-gap_5-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "5-layers",
@@ -700,7 +638,6 @@
             "end"
         ],
         "what_gap_5-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "5-layers",
@@ -718,7 +655,6 @@
     },
     "unbound_wh": {
         "that_no-gap_1": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -727,7 +663,6 @@
             "end"
         ],
         "that_gap_1": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -735,7 +670,6 @@
             "end"
         ],
         "what_no-gap_1": [
-            "bos",
             "prefix",
             "wh-obj",
             "subj",
@@ -744,7 +678,6 @@
             "end"
         ],
         "what_gap_1": [
-            "bos",
             "prefix",
             "wh-obj",
             "subj",
@@ -752,7 +685,6 @@
             "end"
         ],
         "that_no-gap_2": [
-            "bos",
             "prefix",
             "that",
             "2-layers",
@@ -762,7 +694,6 @@
             "end"
         ],
         "that_gap_2": [
-            "bos",
             "prefix",
             "that",
             "2-layers",
@@ -771,7 +702,6 @@
             "end"
         ],
         "what_no-gap_2": [
-            "bos",
             "prefix",
             "wh-obj",
             "2-layers",
@@ -781,7 +711,6 @@
             "end"
         ],
         "what_gap_2": [
-            "bos",
             "prefix",
             "wh-obj",
             "2-layers",
@@ -790,7 +719,6 @@
             "end"
         ],
         "that_no-gap_3": [
-            "bos",
             "prefix",
             "that",
             "3-layers",
@@ -801,7 +729,6 @@
             "end"
         ],
         "that_gap_3": [
-            "bos",
             "prefix",
             "that",
             "3-layers",
@@ -811,7 +738,6 @@
             "end"
         ],
         "what_no-gap_3": [
-            "bos",
             "prefix",
             "wh-obj",
             "3-layers",
@@ -822,7 +748,6 @@
             "end"
         ],
         "what_gap_3": [
-            "bos",
             "prefix",
             "wh-obj",
             "3-layers",
@@ -832,7 +757,6 @@
             "end"
         ],
         "that_no-gap_4": [
-            "bos",
             "prefix",
             "that",
             "4-layers",
@@ -844,7 +768,6 @@
             "end"
         ],
         "that_gap_4": [
-            "bos",
             "prefix",
             "that",
             "4-layers",
@@ -855,7 +778,6 @@
             "end"
         ],
         "what_no-gap_4": [
-            "bos",
             "prefix",
             "wh-obj",
             "4-layers",
@@ -867,7 +789,6 @@
             "end"
         ],
         "what_gap_4": [
-            "bos",
             "prefix",
             "wh-obj",
             "4-layers",
@@ -878,7 +799,6 @@
             "end"
         ],
         "that_no-gap_5": [
-            "bos",
             "prefix",
             "that",
             "5-layers",
@@ -891,7 +811,6 @@
             "end"
         ],
         "that_gap_5": [
-            "bos",
             "prefix",
             "that",
             "5-layers",
@@ -903,7 +822,6 @@
             "end"
         ],
         "what_no-gap_5": [
-            "bos",
             "prefix",
             "wh-obj",
             "5-layers",
@@ -916,7 +834,6 @@
             "end"
         ],
         "what_gap_5": [
-            "bos",
             "prefix",
             "wh-obj",
             "5-layers",
@@ -928,7 +845,6 @@
             "end"
         ],
         "that_no-gap_1-comp": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -937,7 +853,6 @@
             "end"
         ],
         "that_gap_1-comp": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -945,7 +860,6 @@
             "end"
         ],
         "what_no-gap_1-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "subj",
@@ -954,7 +868,6 @@
             "end"
         ],
         "what_gap_1-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "subj",
@@ -962,7 +875,6 @@
             "end"
         ],
         "that_no-gap_2-comp": [
-            "bos",
             "prefix",
             "that",
             "2-layers",
@@ -973,7 +885,6 @@
             "end"
         ],
         "that_gap_2-comp": [
-            "bos",
             "prefix",
             "that",
             "2-layers",
@@ -983,7 +894,6 @@
             "end"
         ],
         "what_no-gap_2-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "2-layers",
@@ -994,7 +904,6 @@
             "end"
         ],
         "what_gap_2-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "2-layers",
@@ -1004,7 +913,6 @@
             "end"
         ],
         "that_no-gap_3-comp": [
-            "bos",
             "prefix",
             "that",
             "3-layers",
@@ -1017,7 +925,6 @@
             "end"
         ],
         "that_gap_3-comp": [
-            "bos",
             "prefix",
             "that",
             "3-layers",
@@ -1029,7 +936,6 @@
             "end"
         ],
         "what_no-gap_3-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "3-layers",
@@ -1042,7 +948,6 @@
             "end"
         ],
         "what_gap_3-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "3-layers",
@@ -1054,7 +959,6 @@
             "end"
         ],
         "that_no-gap_4-comp": [
-            "bos",
             "prefix",
             "that",
             "4-layers",
@@ -1069,7 +973,6 @@
             "end"
         ],
         "that_gap_4-comp": [
-            "bos",
             "prefix",
             "that",
             "4-layers",
@@ -1083,7 +986,6 @@
             "end"
         ],
         "what_no-gap_4-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "4-layers",
@@ -1098,7 +1000,6 @@
             "end"
         ],
         "what_gap_4-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "4-layers",
@@ -1112,7 +1013,6 @@
             "end"
         ],
         "that_no-gap_5-comp": [
-            "bos",
             "prefix",
             "that",
             "5-layers",
@@ -1129,7 +1029,6 @@
             "end"
         ],
         "that_gap_5-comp": [
-            "bos",
             "prefix",
             "that",
             "5-layers",
@@ -1145,7 +1044,6 @@
             "end"
         ],
         "what_no-gap_5-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "5-layers",
@@ -1162,7 +1060,6 @@
             "end"
         ],
         "what_gap_5-comp": [
-            "bos",
             "prefix",
             "wh-obj",
             "5-layers",
@@ -1180,7 +1077,6 @@
     },
     "unbound_rc": {
         "that_no-gap_1": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1190,7 +1086,6 @@
             "end"
         ],
         "that_gap_1": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1199,7 +1094,6 @@
             "end"
         ],
         "what_no-gap_1": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1209,7 +1103,6 @@
             "end"
         ],
         "what_gap_1": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1218,7 +1111,6 @@
             "end"
         ],
         "that_no-gap_2": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1229,7 +1121,6 @@
             "end"
         ],
         "that_gap_2": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1239,7 +1130,6 @@
             "end"
         ],
         "what_no-gap_2": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1250,7 +1140,6 @@
             "end"
         ],
         "what_gap_2": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1260,7 +1149,6 @@
             "end"
         ],
         "that_no-gap_3": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1272,7 +1160,6 @@
             "end"
         ],
         "that_gap_3": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1283,7 +1170,6 @@
             "end"
         ],
         "what_no-gap_3": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1295,7 +1181,6 @@
             "end"
         ],
         "what_gap_3": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1306,7 +1191,6 @@
             "end"
         ],
         "that_no-gap_4": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1319,7 +1203,6 @@
             "end"
         ],
         "that_gap_4": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1331,7 +1214,6 @@
             "end"
         ],
         "what_no-gap_4": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1344,7 +1226,6 @@
             "end"
         ],
         "what_gap_4": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1356,7 +1237,6 @@
             "end"
         ],
         "that_no-gap_5": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1370,7 +1250,6 @@
             "end"
         ],
         "that_gap_5": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1383,7 +1262,6 @@
             "end"
         ],
         "what_no-gap_5": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1397,7 +1275,6 @@
             "end"
         ],
         "what_gap_5": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1410,7 +1287,6 @@
             "end"
         ],
         "that_no-gap_1-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1420,7 +1296,6 @@
             "end"
         ],
         "that_gap_1-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1429,7 +1304,6 @@
             "end"
         ],
         "what_no-gap_1-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1439,7 +1313,6 @@
             "end"
         ],
         "what_gap_1-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1448,7 +1321,6 @@
             "end"
         ],
         "that_no-gap_2-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1460,7 +1332,6 @@
             "end"
         ],
         "that_gap_2-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1471,7 +1342,6 @@
             "end"
         ],
         "what_no-gap_2-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1483,7 +1353,6 @@
             "end"
         ],
         "what_gap_2-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1494,7 +1363,6 @@
             "end"
         ],
         "that_no-gap_3-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1508,7 +1376,6 @@
             "end"
         ],
         "that_gap_3-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1521,7 +1388,6 @@
             "end"
         ],
         "what_no-gap_3-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1535,7 +1401,6 @@
             "end"
         ],
         "what_gap_3-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1548,7 +1413,6 @@
             "end"
         ],
         "that_no-gap_4-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1564,7 +1428,6 @@
             "end"
         ],
         "that_gap_4-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1579,7 +1442,6 @@
             "end"
         ],
         "what_no-gap_4-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1595,7 +1457,6 @@
             "end"
         ],
         "what_gap_4-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1610,7 +1471,6 @@
             "end"
         ],
         "that_no-gap_5-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1628,7 +1488,6 @@
             "end"
         ],
         "that_gap_5-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1645,7 +1504,6 @@
             "end"
         ],
         "what_no-gap_5-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1663,7 +1521,6 @@
             "end"
         ],
         "what_gap_5-comp": [
-            "bos",
             "prefix",
             "rc-head-obj",
             "rp",
@@ -1682,7 +1539,6 @@
     },
     "subject_wh_en": {
         "that_no-gap_subj": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -1691,7 +1547,6 @@
             "end"
         ],
         "what_no-gap_subj": [
-            "bos",
             "prefix",
             "wh-subj",
             "subj",
@@ -1700,7 +1555,6 @@
             "end"
         ],
         "what_gap_subj": [
-            "bos",
             "prefix",
             "wh-subj",
             "verb",
@@ -1708,7 +1562,6 @@
             "end"
         ],
         "that_gap_subj": [
-            "bos",
             "prefix",
             "that",
             "verb",
@@ -1716,7 +1569,6 @@
             "end"
         ],
         "that_no-gap_pp-subj": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -1727,7 +1579,6 @@
             "end"
         ],
         "what_no-gap_pp-subj": [
-            "bos",
             "prefix",
             "wh-obl",
             "subj",
@@ -1738,7 +1589,6 @@
             "end"
         ],
         "what_gap_pp-subj": [
-            "bos",
             "prefix",
             "wh-obl",
             "subj",
@@ -1748,7 +1598,6 @@
             "end"
         ],
         "that_gap_pp-subj": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -1758,7 +1607,6 @@
             "end"
         ],
         "that_no-gap_subj-emb": [
-            "bos",
             "prefix",
             "that",
             "embed",
@@ -1768,7 +1616,6 @@
             "end"
         ],
         "what_no-gap_subj-emb": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -1778,7 +1625,6 @@
             "end"
         ],
         "what_gap_subj-emb": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -1787,7 +1633,6 @@
             "end"
         ],
         "that_gap_subj-emb": [
-            "bos",
             "prefix",
             "that",
             "embed",
@@ -1798,7 +1643,6 @@
     },
     "subject_wh": {
         "that_no-gap_subj": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -1807,7 +1651,6 @@
             "end"
         ],
         "what_no-gap_subj": [
-            "bos",
             "prefix",
             "wh-subj",
             "rp",
@@ -1817,7 +1660,6 @@
             "end"
         ],
         "what_gap_subj": [
-            "bos",
             "prefix",
             "wh-subj",
             "rp",
@@ -1826,7 +1668,6 @@
             "end"
         ],
         "that_gap_subj": [
-            "bos",
             "prefix",
             "that",
             "verb",
@@ -1834,7 +1675,6 @@
             "end"
         ],
         "that_no-gap_pp-subj": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -1845,7 +1685,6 @@
             "end"
         ],
         "what_no-gap_pp-subj": [
-            "bos",
             "prefix",
             "wh-obl",
             "subj",
@@ -1856,7 +1695,6 @@
             "end"
         ],
         "what_gap_pp-subj": [
-            "bos",
             "prefix",
             "wh-obl",
             "subj",
@@ -1866,7 +1704,6 @@
             "end"
         ],
         "that_gap_pp-subj": [
-            "bos",
             "prefix",
             "that",
             "subj",
@@ -1876,7 +1713,6 @@
             "end"
         ],
         "that_no-gap_subj-emb": [
-            "bos",
             "prefix",
             "that",
             "embed",
@@ -1886,7 +1722,6 @@
             "end"
         ],
         "what_no-gap_subj-emb": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -1896,7 +1731,6 @@
             "end"
         ],
         "what_gap_subj-emb": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -1905,7 +1739,6 @@
             "end"
         ],
         "that_gap_subj-emb": [
-            "bos",
             "prefix",
             "that",
             "embed",
@@ -1916,7 +1749,6 @@
     },
     "subject_rc": {
         "that_no-gap_subj": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1926,7 +1758,6 @@
             "end"
         ],
         "what_no-gap_subj": [
-            "bos",
             "prefix",
             "about",
             "pr-subj",
@@ -1937,7 +1768,6 @@
             "end"
         ],
         "what_gap_subj": [
-            "bos",
             "prefix",
             "about",
             "pr-subj",
@@ -1947,7 +1777,6 @@
             "end"
         ],
         "that_gap_subj": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1956,7 +1785,6 @@
             "end"
         ],
         "that_no-gap_pp-subj": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -1968,7 +1796,6 @@
             "end"
         ],
         "what_no-gap_pp-subj": [
-            "bos",
             "prefix",
             "about",
             "pr-obl",
@@ -1981,7 +1808,6 @@
             "end"
         ],
         "what_gap_pp-subj": [
-            "bos",
             "prefix",
             "about",
             "pr-obl",
@@ -1993,7 +1819,6 @@
             "end"
         ],
         "that_gap_pp-subj": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -2004,7 +1829,6 @@
             "end"
         ],
         "that_no-gap_subj-emb": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -2015,7 +1839,6 @@
             "end"
         ],
         "what_no-gap_subj-emb": [
-            "bos",
             "prefix",
             "about",
             "pr-subj",
@@ -2027,7 +1850,6 @@
             "end"
         ],
         "what_gap_subj-emb": [
-            "bos",
             "prefix",
             "about",
             "pr-subj",
@@ -2038,7 +1860,6 @@
             "end"
         ],
         "that_gap_subj-emb": [
-            "bos",
             "prefix",
             "pp-add",
             "that",
@@ -2050,7 +1871,6 @@
     },
     "eq_wh_en": {
         "that_no-gap_that-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2061,7 +1881,6 @@
             "end"
         ],
         "that_gap_that-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2071,7 +1890,6 @@
             "end"
         ],
         "what_no-gap_that-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2082,7 +1900,6 @@
             "end"
         ],
         "what_gap_that-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2092,7 +1909,6 @@
             "end"
         ],
         "that_no-gap_no-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2102,7 +1918,6 @@
             "end"
         ],
         "that_gap_no-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2111,7 +1926,6 @@
             "end"
         ],
         "what_no-gap_no-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2121,7 +1935,6 @@
             "end"
         ],
         "what_gap_no-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2130,7 +1943,6 @@
             "end"
         ],
         "that_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2140,7 +1952,6 @@
             "end"
         ],
         "that_gap_wh-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2149,7 +1960,6 @@
             "end"
         ],
         "what_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2159,7 +1969,6 @@
             "end"
         ],
         "what_gap_wh-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2170,7 +1979,6 @@
     },
     "eq_wh": {
         "that_no-gap_that-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2181,7 +1989,6 @@
             "end"
         ],
         "that_gap_that-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2191,7 +1998,6 @@
             "end"
         ],
         "what_no-gap_that-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2202,7 +2008,6 @@
             "end"
         ],
         "what_gap_that-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2212,7 +2017,6 @@
             "end"
         ],
         "that_no-gap_no-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2222,7 +2026,6 @@
             "end"
         ],
         "that_gap_no-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2231,7 +2034,6 @@
             "end"
         ],
         "what_no-gap_no-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2241,7 +2043,6 @@
             "end"
         ],
         "what_gap_no-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2250,7 +2051,6 @@
             "end"
         ],
         "that_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2260,7 +2060,6 @@
             "end"
         ],
         "that_gap_wh-comp": [
-            "bos",
             "prefix",
             "that1",
             "embed",
@@ -2269,7 +2068,6 @@
             "end"
         ],
         "what_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2279,7 +2077,6 @@
             "end"
         ],
         "what_gap_wh-comp": [
-            "bos",
             "prefix",
             "wh-subj",
             "embed",
@@ -2290,7 +2087,6 @@
     },
     "eq_rc": {
         "that_no-gap_that-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -2302,7 +2098,6 @@
             "end"
         ],
         "that_gap_that-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -2313,7 +2108,6 @@
             "end"
         ],
         "what_no-gap_that-comp": [
-            "bos",
             "prefix",
             "rc-head-subj",
             "rp",
@@ -2325,7 +2119,6 @@
             "end"
         ],
         "what_gap_that-comp": [
-            "bos",
             "prefix",
             "rc-head-subj",
             "rp",
@@ -2336,7 +2129,6 @@
             "end"
         ],
         "that_no-gap_no-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -2347,7 +2139,6 @@
             "end"
         ],
         "that_gap_no-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -2357,7 +2148,6 @@
             "end"
         ],
         "what_no-gap_no-comp": [
-            "bos",
             "prefix",
             "rc-head-subj",
             "rp",
@@ -2368,7 +2158,6 @@
             "end"
         ],
         "what_gap_no-comp": [
-            "bos",
             "prefix",
             "rc-head-subj",
             "rp",
@@ -2378,7 +2167,6 @@
             "end"
         ],
         "that_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -2389,7 +2177,6 @@
             "end"
         ],
         "that_gap_wh-comp": [
-            "bos",
             "prefix",
             "pp-add",
             "that1",
@@ -2399,7 +2186,6 @@
             "end"
         ],
         "what_no-gap_wh-comp": [
-            "bos",
             "prefix",
             "rc-head-subj",
             "rp",
@@ -2410,7 +2196,6 @@
             "end"
         ],
         "what_gap_wh-comp": [
-            "bos",
             "prefix",
             "rc-head-subj",
             "rp",

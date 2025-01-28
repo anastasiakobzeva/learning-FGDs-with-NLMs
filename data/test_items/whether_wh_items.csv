@@ -1,51 +1,51 @@
-﻿item;prefix;wh-obj;that1;embed;whether;that2;subj;verb;obj;end;bos
-1;Jeg vet;hva;at;broren min bekreftet;om;at;tanten vår;tok med seg;gaven;til festen;<bos>
-2;En nabo fortalte meg;hvem;at;mannen oppdaget;om;at;hunden;fanget;katten;i hagen;<bos>
-3;Jeg vet;hva;at;assistenten vår bekreftet;om;at;komiteen;leverte;rapporten;innen fristen;<bos>
-4;Du husker;hva;at;jeg oppdaget;om;at;vannet;ødela;det nye teppet;under flommen;<bos>
-5;Hun fortalte meg;hva;at;læreren avslørte;om;at;studenten;stjal;svarene til eksamen;forrige semester;<bos>
-6;Hun vet;hva;at;forskeren kunne fortelle;om;at;selgeren;forfalsket;maleriet;ved hjelp av moderne teknologi;<bos>
-7;Vi husker alle;hva;at;politikeren avslørte;om;at;fangen;smuglet;en pistol;inn i fengselet;<bos>
-8;Min venn rapporterte;hva;at;forretningsmannen spådde;om;at;selskapet;vil selge;flere eiendeler;neste kvartal;<bos>
-9;Jeg har en idé om;hva;at;skuespilleren kunne si;om;at;hennes rival;forhindret;intervjuet;forrige uke;<bos>
-10;Hun kan gjette;hva;at;venninnen vår spådde;om;at;skuespilleren;vil bli tildelt;en pris;for sitt harde arbeid;<bos>
-11;Avisen meldte;hvem;at;politiet visste;om;at;den mistenkte;drepte;vitnet;midt på natten;<bos>
-12;Vi husker;hva;at;gjestene lurte på;om;at;verten;serverte;brennevin;på festen;<bos>
-13;Jeg husker;hva;at;kirurgen bestemte;om;at;legen;skulle gi;den nye medisinen;til pasienten;<bos>
-14;Han sa;hva;at;vennen min oppdaget;om;at;avisen;avslørte;hemmeligheten;for hele byen;<bos>
-15;Ordføreren fortalte meg;hva;at;sekretæren hørte;om;at;byen;reparerte;parkeringsplassen;i løpet av sommeren;<bos>
-16;Min venn husker;hva;at;senatoren bekreftet;om;at;regjeringen;hadde samlet inn;personopplysninger;det siste tiåret;<bos>
-17;Avisen sa;hva;at;rådgiverne oppdaget;om;at;lederen;brøt;reglene;under finanskrisen;<bos>
-18;En nabo sa;hva;at;professoren kunne forutsi;om;at;studenten;ville klare;eksamen;uten juks;<bos>
-19;Min venn fortalte meg;hvem;at;rådgiverne kunne fortelle;om;at;universitetet;ansatte;sekretæren;forrige uke;<bos>
-20;Hun kan ikke tro;hvem;at;jeg glemte;om;at;min gode venn;møtte;søsteren min;i vinter;<bos>
-21;En nabo minnet oss på;hva;at;hun husket;om;at;lastebilen;dro opp;vognen;fra gropen;<bos>
-22;Eieren fortalte meg;hva;at;kokken glemte;om;at;restauranten;laget;oppskriften;tidligere den uken;<bos>
-23;Søsteren min fortalte meg;hva;at;moren vår husket;om;at;avisen;publiserte;en fryktelig historie;forrige måned;<bos>
-24;Vi husker;hva;at;dommeren bestemte;om;at;advokaten;måtte avsløre;bevisene;før rettssaken;<bos>
-25;De vet;hva;at;min bror oppdaget;om;at;tyven;tok;smykket;fra hvelvet;<bos>
-26;Noen fortalte meg;hvem;at;mannen bekreftet;om;at;den besøkende;fanget;en fisk;på turen;<bos>
-27;Hun vet;hva;at;vår nabo oppdaget;om;at;posten;leverte;pakken;under stormen;<bos>
-28;De husker;hva;at;jeg bekreftet;om;at;onkelen;ødela;feiringen;etter bryllupet;<bos>
-29;Jeg fortalte henne;hva;at;læreren kunne fortelle;om;at;den ansatte;stjal;avisene;fra bordet;<bos>
-30;Han vet;hva;at;detektiven avslørte;om;at;den mistenkte;forfalsket;dokumentene;før etterforskningen;<bos>
-31;De husker;hva;at;politikeren spådde;om;at;agentene;skulle smugle;stoffene;over grensen;<bos>
-32;Hennes ansatte rapporterte;hva;at;forretningsmannen avslørte;om;at;eieren;vil selge;huset sitt;for en lav pris;<bos>
-33;Hun visste;hva;at;regissøren spådde;om;at;skuespilleren;ville forhindre;forestillingen;på åpningen;<bos>
-34;De kan gjette;hva;at;vennen vår vet;om;at;den frivillige;ville få;en medalje;for arbeidet sitt;<bos>
-35;Avisen rapporterte;hvem;at;politiet hørte;om;at;flyktningene;drepte;offiseren;på flukt;<bos>
-36;Jeg husker;hvem;at;den gamle damen visste;om;at;de voksne;advarte;barna;om isen;<bos>
-37;Han husket;hva;at;kirurgen oppdaget;om;at;legen;ga;medisinen;for sent;<bos>
-38;Noen spurte;hva;at;trollmannen bestemte;om;at;assistenten;skulle avsløre;hemmeligheten;til publikum;<bos>
-39;Den ansatte fortalte ham;hva;at;den ansatte bekreftet;om;at;sjåføren;reparerte;lastebilen;på parkeringsplassen;<bos>
-40;En venn av henne husker;hva;at;senatoren hørte;om;at;personalet;samlet inn;underskrifter;for kampanjen;<bos>
-41;Rapporten sa;hva;at;sekretæren oppdaget;om;at;etterforskerne;overvåket;senatoren;etter rettssaken;<bos>
-42;En assistent sa;hva;at;professoren kunne fortelle;om;at;studentene;hatet;boken;fra dag én;<bos>
-43;Moren hennes fortalte meg;hvem;at;sekretæren kan ha visst;om;at;fakultetet;ansatte;professoren;etter intervjuet;<bos>
-44;Han kan ikke tro;hvem;at;jeg husket;om;at;verten;fornærmet;gjestene;på festen;<bos>
-45;Vår venn minnet oss på det;hva;at;hun spådde;om;at;arbeiderne;bar;bokser;opp trappene;<bos>
-46;Hun fortalte dem;hva;at;kokken husket;om;at;eleven;lagde;brødet;natten før;<bos>
-47;Broren deres fortalte meg;hva;at;deres mor glemte;om;at;familien;inkluderte;bilder;i brevet;<bos>
-48;Jeg husket;hva;at;dommeren visste;om;at;deltakeren;løste;oppgaven;bak scenen;<bos>
-49;En kollega mente;hva;at;læreren hadde sett;om;at;eleven;brukte;kunstig intelligens;på oppgaven;<bos>
-50;Magasinet kunne avsløre;hva;at;agenten hadde sagt;om;at;kunstneren;mislikte;kollektivutstillinger;med svenske billedkunstnere;<bos>
+﻿item;prefix;wh-obj;that1;embed;whether;that2;subj;verb;obj;end
+1;Jeg vet;hva;at;broren min bekreftet;om;at;tanten vår;tok med seg;gaven;til festen
+2;En nabo fortalte meg;hvem;at;mannen oppdaget;om;at;hunden;fanget;katten;i hagen
+3;Jeg vet;hva;at;assistenten vår bekreftet;om;at;komiteen;leverte;rapporten;innen fristen
+4;Du husker;hva;at;jeg oppdaget;om;at;vannet;ødela;det nye teppet;under flommen
+5;Hun fortalte meg;hva;at;læreren avslørte;om;at;studenten;stjal;svarene til eksamen;forrige semester
+6;Hun vet;hva;at;forskeren kunne fortelle;om;at;selgeren;forfalsket;maleriet;ved hjelp av moderne teknologi
+7;Vi husker alle;hva;at;politikeren avslørte;om;at;fangen;smuglet;en pistol;inn i fengselet
+8;Min venn rapporterte;hva;at;forretningsmannen spådde;om;at;selskapet;vil selge;flere eiendeler;neste kvartal
+9;Jeg har en idé om;hva;at;skuespilleren kunne si;om;at;hennes rival;forhindret;intervjuet;forrige uke
+10;Hun kan gjette;hva;at;venninnen vår spådde;om;at;skuespilleren;vil bli tildelt;en pris;for sitt harde arbeid
+11;Avisen meldte;hvem;at;politiet visste;om;at;den mistenkte;drepte;vitnet;midt på natten
+12;Vi husker;hva;at;gjestene lurte på;om;at;verten;serverte;brennevin;på festen
+13;Jeg husker;hva;at;kirurgen bestemte;om;at;legen;skulle gi;den nye medisinen;til pasienten
+14;Han sa;hva;at;vennen min oppdaget;om;at;avisen;avslørte;hemmeligheten;for hele byen
+15;Ordføreren fortalte meg;hva;at;sekretæren hørte;om;at;byen;reparerte;parkeringsplassen;i løpet av sommeren
+16;Min venn husker;hva;at;senatoren bekreftet;om;at;regjeringen;hadde samlet inn;personopplysninger;det siste tiåret
+17;Avisen sa;hva;at;rådgiverne oppdaget;om;at;lederen;brøt;reglene;under finanskrisen
+18;En nabo sa;hva;at;professoren kunne forutsi;om;at;studenten;ville klare;eksamen;uten juks
+19;Min venn fortalte meg;hvem;at;rådgiverne kunne fortelle;om;at;universitetet;ansatte;sekretæren;forrige uke
+20;Hun kan ikke tro;hvem;at;jeg glemte;om;at;min gode venn;møtte;søsteren min;i vinter
+21;En nabo minnet oss på;hva;at;hun husket;om;at;lastebilen;dro opp;vognen;fra gropen
+22;Eieren fortalte meg;hva;at;kokken glemte;om;at;restauranten;laget;oppskriften;tidligere den uken
+23;Søsteren min fortalte meg;hva;at;moren vår husket;om;at;avisen;publiserte;en fryktelig historie;forrige måned
+24;Vi husker;hva;at;dommeren bestemte;om;at;advokaten;måtte avsløre;bevisene;før rettssaken
+25;De vet;hva;at;min bror oppdaget;om;at;tyven;tok;smykket;fra hvelvet
+26;Noen fortalte meg;hvem;at;mannen bekreftet;om;at;den besøkende;fanget;en fisk;på turen
+27;Hun vet;hva;at;vår nabo oppdaget;om;at;posten;leverte;pakken;under stormen
+28;De husker;hva;at;jeg bekreftet;om;at;onkelen;ødela;feiringen;etter bryllupet
+29;Jeg fortalte henne;hva;at;læreren kunne fortelle;om;at;den ansatte;stjal;avisene;fra bordet
+30;Han vet;hva;at;detektiven avslørte;om;at;den mistenkte;forfalsket;dokumentene;før etterforskningen
+31;De husker;hva;at;politikeren spådde;om;at;agentene;skulle smugle;stoffene;over grensen
+32;Hennes ansatte rapporterte;hva;at;forretningsmannen avslørte;om;at;eieren;vil selge;huset sitt;for en lav pris
+33;Hun visste;hva;at;regissøren spådde;om;at;skuespilleren;ville forhindre;forestillingen;på åpningen
+34;De kan gjette;hva;at;vennen vår vet;om;at;den frivillige;ville få;en medalje;for arbeidet sitt
+35;Avisen rapporterte;hvem;at;politiet hørte;om;at;flyktningene;drepte;offiseren;på flukt
+36;Jeg husker;hvem;at;den gamle damen visste;om;at;de voksne;advarte;barna;om isen
+37;Han husket;hva;at;kirurgen oppdaget;om;at;legen;ga;medisinen;for sent
+38;Noen spurte;hva;at;trollmannen bestemte;om;at;assistenten;skulle avsløre;hemmeligheten;til publikum
+39;Den ansatte fortalte ham;hva;at;den ansatte bekreftet;om;at;sjåføren;reparerte;lastebilen;på parkeringsplassen
+40;En venn av henne husker;hva;at;senatoren hørte;om;at;personalet;samlet inn;underskrifter;for kampanjen
+41;Rapporten sa;hva;at;sekretæren oppdaget;om;at;etterforskerne;overvåket;senatoren;etter rettssaken
+42;En assistent sa;hva;at;professoren kunne fortelle;om;at;studentene;hatet;boken;fra dag én
+43;Moren hennes fortalte meg;hvem;at;sekretæren kan ha visst;om;at;fakultetet;ansatte;professoren;etter intervjuet
+44;Han kan ikke tro;hvem;at;jeg husket;om;at;verten;fornærmet;gjestene;på festen
+45;Vår venn minnet oss på det;hva;at;hun spådde;om;at;arbeiderne;bar;bokser;opp trappene
+46;Hun fortalte dem;hva;at;kokken husket;om;at;eleven;lagde;brødet;natten før
+47;Broren deres fortalte meg;hva;at;deres mor glemte;om;at;familien;inkluderte;bilder;i brevet
+48;Jeg husket;hva;at;dommeren visste;om;at;deltakeren;løste;oppgaven;bak scenen
+49;En kollega mente;hva;at;læreren hadde sett;om;at;eleven;brukte;kunstig intelligens;på oppgaven
+50;Magasinet kunne avsløre;hva;at;agenten hadde sagt;om;at;kunstneren;mislikte;kollektivutstillinger;med svenske billedkunstnere
