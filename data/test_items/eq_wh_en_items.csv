@@ -1,51 +1,51 @@
-﻿item;prefix;that1;wh-subj;embed;that2;wh-word;subj;verb;adjunct;end;bos
-1;She mentioned;that;what;the designer specified;that;where;the shelf;should be mounted;in the hallway;as soon as possible;<bos>
-2;He mentioned;that;what;the teacher knew;that;when;the food;was purchased;before the meeting;in fall;<bos>
-3;I hear;that;what;they had to explain;that;how;the machine;worked;in an unusual way;in the office;<bos>
-4;You heard;that;what;the driver forgot;that;where;the car;should be picked up;in the center;that day;<bos>
-5;We predicted;that;what;the cook wanted to reveal;that;how;the bread;was made;with cream;in the mornings;<bos>
-6;You heard;that;what;they discovered;that;where;the box;was stored;in the basement;for over a year;<bos>
-7;They did not understand;that;what;the participants had to guess;that;where;the prize;was hidden;behind the door;during the finals;<bos>
-8;You heard;that;what;the royal family had explained;that;how;the painting;should be framed;to match the walls;in the royal palace;<bos>
-9;We found out;that;what;the minister predicted;that;when;the educational offer;would be changed;after the regional reform;in Norway;<bos>
-10;He has heard;that;what;the coach explained;that;how;the sore;should be handled;with a special cream;after training;<bos>
-11;She believed;that;what;the researcher could guess;that;where;the earthquake;would happen;in a similar area;more than once;<bos>
-12;You heard;that;what;the record company discovered;that;where;the address;was published;on their own forums;without permission;<bos>
-13;I found out;that;what;the football club knew;that;when;the documentary;was to be continued;after the damage;last year;<bos>
-14;They understood;that;what;the warlord knew;that;where;the helicopter;was destroyed;in Germany;during the war;<bos>
-15;They have understood;that;what;the post office explained;that;where;the package;was sent;to Sweden;last month;<bos>
-16;You heard;that;what;the top division wanted;that;when;the trophy;would be awarded;before the match;during the championship;<bos>
-17;I found out;that;what;the estate owner specified;that;when;the grain;should be harvested;in late autumn;for best yield;<bos>
-18;He knew;that;what;the employees were told;that;where;the statistics;had to be published;in the report;after the revisions;<bos>
-19;She knew;that;what;the report explained;that;how;the vegetation;should be removed;all the way to the field;during the championship;<bos>
-20;He heard;that;what;the commanders knew;that;when;the equipment;broke;during the battle;last week;<bos>
-21;You understood;that;what;the architect knew;that;when;the restoration;was ready;before the summer vacation;last year;<bos>
-22;I heard;that;what;the minister specified;that;where;wooden houses;were to be built;in different cities;next year;<bos>
-23;You heard;that;what;the husband explained;that;why;the joke;was inappropriate;due to language use;at the party;<bos>
-24;You mentioned;that;what;the politician explained;that;why;the book;was banned;by the government;in May;<bos>
-25;I have found out;that;what;the seller avoided to reveal;that;where;the sails;were missing parts;at the ends;due to production errors;<bos>
-26;Others got to hear;that;what;the dancer knew;that;why;the performance;was to be canceled;due to political unrest;during the championship;<bos>
-27;No one knew;that;what;the thief could guess;that;where;the treasure;was hidden;in the house;in the countryside;<bos>
-28;Many knew;that;what;the nobleman had heard;that;when;the opera house;was to be painted;soon;in the city center;<bos>
-29;Many understood;that;what;the perpetrator had heard;that;where;the forests;provided shelter;around the mountain;near the city;<bos>
-30;More people heard;that;what;the journalist revealed;that;where;the article;had to be published;in the newspaper;after the revisions;<bos>
-31;They were told;that;what;the researcher did not know;that;where;the materials;came from;an unknown book;in the old archive;<bos>
-32;They knew;that;what;it is known;that;where;the wine;is stored;in wine cellars;for best taste;<bos>
-33;She wanted to check;that;what;the post office explained;that;why;the package;was returned;due to an unknown address;after a month;<bos>
-34;They say;that;what;the tourists will check;that;where;the sculpture;is now;at an exhibition;after their city tour;<bos>
-35;You were told;that;what;the driver had to explain;that;where;the truck;is parked;in front of a tree;at the new parking lot;<bos>
-36;We discussed;that;what;the admiral wanted to know;that;where;the ship;was stationed;in the harbour;after the battle;<bos>
-37;I heard;that;what;the author wants to know;that;where;the books;are now;in the old archive;in his hometown;<bos>
-38;You need to check;that;what;the secretary could say;that;where;the documents;were then;on the shelf;in the office;<bos>
-39;The boss was told;that;what;the customers knew;that;where;the goods;were;in the warehouse;when they ordered them;<bos>
-40;We found out;that;what;the artist found out;that;where;the artwork;was exhibited;in the new gallery;against his will;<bos>
-41;They had heard;that;what;the man had to explain;that;how;the walls;were painted;with natural paint;in the old days;<bos>
-42;She mentioned;that;what;the boss wanted to check;that;how;the truck;was loaded;heavily;before it departed;<bos>
-43;You know;that;what;it is known;that;how;cheese;was stored;in the cellar;for best taste;<bos>
-44;Jens knew;that;what;the host had to check;that;how;the tables;were arranged;in three groups;before the event;<bos>
-45;He was informed;that;what;the sailor knows;that;how;the boat;was secured;with two ropes;in the harbour;<bos>
-46;They mentioned;that;what;she knows;that;when;the meeting;is planned;for next week;according to her schedule;<bos>
-47;He hears;that;what;people want to know;that;when;the revision;is announced;after the next meeting;in the Parliament;<bos>
-48;The students were informed;that;what;the teacher announced;that;when;the test;should be;on Friday;before summer vacation;<bos>
-49;They heard;that;what;the secretary found out;that;when;the argument;started;after the meeting;in the main building;<bos>
-50;He found out;that;what;they confirmed;that;when;the event;was scheduled;after summer vacation;before the pandemic;<bos>
+﻿item;prefix;that1;wh-subj;embed;that2;wh-word;subj;verb;adjunct;end
+1;She mentioned;that;what;the designer specified;that;where;the shelf;should be mounted;in the hallway;as soon as possible
+2;He mentioned;that;what;the teacher knew;that;when;the food;was purchased;before the meeting;in fall
+3;I hear;that;what;they had to explain;that;how;the machine;worked;in an unusual way;in the office
+4;You heard;that;what;the driver forgot;that;where;the car;should be picked up;in the center;that day
+5;We predicted;that;what;the cook wanted to reveal;that;how;the bread;was made;with cream;in the mornings
+6;You heard;that;what;they discovered;that;where;the box;was stored;in the basement;for over a year
+7;They did not understand;that;what;the participants had to guess;that;where;the prize;was hidden;behind the door;during the finals
+8;You heard;that;what;the royal family had explained;that;how;the painting;should be framed;to match the walls;in the royal palace
+9;We found out;that;what;the minister predicted;that;when;the educational offer;would be changed;after the regional reform;in Norway
+10;He has heard;that;what;the coach explained;that;how;the sore;should be handled;with a special cream;after training
+11;She believed;that;what;the researcher could guess;that;where;the earthquake;would happen;in a similar area;more than once
+12;You heard;that;what;the record company discovered;that;where;the address;was published;on their own forums;without permission
+13;I found out;that;what;the football club knew;that;when;the documentary;was to be continued;after the damage;last year
+14;They understood;that;what;the warlord knew;that;where;the helicopter;was destroyed;in Germany;during the war
+15;They have understood;that;what;the post office explained;that;where;the package;was sent;to Sweden;last month
+16;You heard;that;what;the top division wanted;that;when;the trophy;would be awarded;before the match;during the championship
+17;I found out;that;what;the estate owner specified;that;when;the grain;should be harvested;in late autumn;for best yield
+18;He knew;that;what;the employees were told;that;where;the statistics;had to be published;in the report;after the revisions
+19;She knew;that;what;the report explained;that;how;the vegetation;should be removed;all the way to the field;during the championship
+20;He heard;that;what;the commanders knew;that;when;the equipment;broke;during the battle;last week
+21;You understood;that;what;the architect knew;that;when;the restoration;was ready;before the summer vacation;last year
+22;I heard;that;what;the minister specified;that;where;wooden houses;were to be built;in different cities;next year
+23;You heard;that;what;the husband explained;that;why;the joke;was inappropriate;due to language use;at the party
+24;You mentioned;that;what;the politician explained;that;why;the book;was banned;by the government;in May
+25;I have found out;that;what;the seller avoided to reveal;that;where;the sails;were missing parts;at the ends;due to production errors
+26;Others got to hear;that;what;the dancer knew;that;why;the performance;was to be canceled;due to political unrest;during the championship
+27;No one knew;that;what;the thief could guess;that;where;the treasure;was hidden;in the house;in the countryside
+28;Many knew;that;what;the nobleman had heard;that;when;the opera house;was to be painted;soon;in the city center
+29;Many understood;that;what;the perpetrator had heard;that;where;the forests;provided shelter;around the mountain;near the city
+30;More people heard;that;what;the journalist revealed;that;where;the article;had to be published;in the newspaper;after the revisions
+31;They were told;that;what;the researcher did not know;that;where;the materials;came from;an unknown book;in the old archive
+32;They knew;that;what;it is known;that;where;the wine;is stored;in wine cellars;for best taste
+33;She wanted to check;that;what;the post office explained;that;why;the package;was returned;due to an unknown address;after a month
+34;They say;that;what;the tourists will check;that;where;the sculpture;is now;at an exhibition;after their city tour
+35;You were told;that;what;the driver had to explain;that;where;the truck;is parked;in front of a tree;at the new parking lot
+36;We discussed;that;what;the admiral wanted to know;that;where;the ship;was stationed;in the harbour;after the battle
+37;I heard;that;what;the author wants to know;that;where;the books;are now;in the old archive;in his hometown
+38;You need to check;that;what;the secretary could say;that;where;the documents;were then;on the shelf;in the office
+39;The boss was told;that;what;the customers knew;that;where;the goods;were;in the warehouse;when they ordered them
+40;We found out;that;what;the artist found out;that;where;the artwork;was exhibited;in the new gallery;against his will
+41;They had heard;that;what;the man had to explain;that;how;the walls;were painted;with natural paint;in the old days
+42;She mentioned;that;what;the boss wanted to check;that;how;the truck;was loaded;heavily;before it departed
+43;You know;that;what;it is known;that;how;cheese;was stored;in the cellar;for best taste
+44;Jens knew;that;what;the host had to check;that;how;the tables;were arranged;in three groups;before the event
+45;He was informed;that;what;the sailor knows;that;how;the boat;was secured;with two ropes;in the harbour
+46;They mentioned;that;what;she knows;that;when;the meeting;is planned;for next week;according to her schedule
+47;He hears;that;what;people want to know;that;when;the revision;is announced;after the next meeting;in the Parliament
+48;The students were informed;that;what;the teacher announced;that;when;the test;should be;on Friday;before summer vacation
+49;They heard;that;what;the secretary found out;that;when;the argument;started;after the meeting;in the main building
+50;He found out;that;what;they confirmed;that;when;the event;was scheduled;after summer vacation;before the pandemic
