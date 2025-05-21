@@ -78,6 +78,16 @@
         ]
     },
     "whether_wh": {
+        "that_no-gap_that-comp": [
+            "prefix",
+            "that1",
+            "embed",
+            "that2",
+            "subj",
+            "verb",
+            "obj",
+            "end"
+        ],
         "what_no-gap_that-comp": [
             "prefix",
             "wh-obj",

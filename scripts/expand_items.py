@@ -1,8 +1,8 @@
 import pandas as pd
 import json
 
+start_condition_included = False
 end_condition_included = False
-autocaps = False
 
 def expand_items(df, conditions):
     """Create output df with all item sentences (num(items)*num(conditions)) in a long format."""
@@ -17,9 +17,10 @@ def long_format(df, conditions):
         for sent_index, row in df.iterrows():
             word_index = 0
             for region in conditions[condition]:
-                for word in row[region].split():
-                    if autocaps and word_index == 0:
-                        word = word.title()
+                words = row[region].split()
+                if not start_condition_included and region == "prefix":
+                    words.insert(0, "<eos>") # insert <eos> at item start
+                for word in words:
                     yield sent_index, word_index, word, region, condition
                     word_index += 1
             if not end_condition_included:
