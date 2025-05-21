@@ -50,8 +50,8 @@ raw.surprisal.plot = function(data, name, path, regions, color_choice){
     scale_linetype_manual(name = "Condition", labels = c("+FILLER", "-FILLER"), values = linetype) +
     theme(legend.position = "right")
   
-  ggsave(file_name, width = 8, height = 6)
-  cat("Saved file", file_name)
+  #ggsave(file_name, width = 8, height = 6)
+  #cat("Saved file", file_name)
   return(plot)
 }
 
@@ -98,8 +98,8 @@ fe.regions.plot = function(data, name, path, regions, color_choice){
     scale_linetype_manual(name = "Condition", labels = c("-GAP", "+GAP"), values = linetype) +
     theme(legend.position="right") 
   
-  ggsave(file_name, width = 8, height = 6)
-  cat("Saved file", file_name)
+  #ggsave(file_name, width = 8, height = 6)
+  #cat("Saved file", file_name)
   return(plot)
 }
 
@@ -147,7 +147,7 @@ fe.roi.plot = function(data, name, path, color_choice){
     theme(legend.position = "right", legend.margin = margin(c(0,0,0,0))) +
     scale_x_discrete(labels = c("-GAP (Filled GE)", "+GAP (Unlicenced GE)"))
   
-  ggsave(file_name)
-  cat("Saved file", file_name)
+  #ggsave(file_name)
+  #cat("Saved file", file_name)
   return(plot)
 }
