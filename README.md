@@ -12,8 +12,12 @@ Contains all data files: `test_items` contains item templates from which test se
 
 - `scripts`
 
-Contains a script for creating test sentences (`expand_items.py`) from item templates provided in `experiments.json`, LSTM-specific scripts from [colorlessgreenRNNs repo](https://github.com/facebookresearch/colorlessgreenRNNs/tree/main/src/language_models) and jupyter notebooks evaluating the models on test sentences (= getting the surprisal values).
+Contains a Python script for creating test sentences (`expand_items.py`) from item templates provided in `experiments.json`, LSTM-specific scripts from [colorlessgreenRNNs repo](https://github.com/facebookresearch/colorlessgreenRNNs/tree/main/src/language_models) and jupyter notebooks evaluating the models on test sentences (= getting the surprisal values).
 
 - `analyses`
 
-TBU with R notebooks for plotting and stats.
+Contains R notebooks with plots and statistical analyses, organized by experiment.
+
+- `corpus-search`
+
+Contains a Python script for extracting embedded questions from Wikipedia, and several excel files: (i) list of verbs that can introduce EQs; (2) all extracted data; (3) manually checked data and stats reported in the paper.
